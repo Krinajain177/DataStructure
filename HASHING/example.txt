@@ -1,0 +1,3 @@
+Hello, World!
+This is a demonstration of file primitives in C.
+File handling is important for persistent data storage.
